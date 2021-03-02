@@ -1,5 +1,5 @@
 p {
-  background-color: antiquewhite;
+  background-color: rgb(209, 140, 48);
   color: red;
 }
 
@@ -9,4 +9,5 @@ h2 {
 
 p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font:2px
 }
